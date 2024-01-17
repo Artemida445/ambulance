@@ -1,0 +1,170 @@
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\bin\Debug\skoraya.exe.config
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\bin\Debug\skoraya.exe
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\bin\Debug\skoraya.pdb
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.AuthForm.resources
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.CallResultForm.resources
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.DirBrigadaForm.resources
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.DirMedPersForm.resources
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.DirPacientForm.resources
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.GreetForm.resources
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.MainForm.resources
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.Properties.Resources.resources
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.RegForm.resources
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.csproj.GenerateResource.Cache
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.exe
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.pdb
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.FilterForm.resources
+C:\Users\Nick\Downloads\drive-download-20181126T204326Z-001\NEW\skoraya\skoraya\obj\Debug\skoraya.MapForm.resources
+D:\Мои документы\skoraya\skoraya\bin\Debug\skoraya.exe.config
+D:\Мои документы\skoraya\skoraya\bin\Debug\skoraya.exe
+D:\Мои документы\skoraya\skoraya\bin\Debug\skoraya.pdb
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.csprojAssemblyReference.cache
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.AuthForm.resources
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.CallResultForm.resources
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.DirBrigadaForm.resources
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.DirMedPersForm.resources
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.DirPacientForm.resources
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.FilterForm.resources
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.GreetForm.resources
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.MainForm.resources
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.MapForm.resources
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.Properties.Resources.resources
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.RegForm.resources
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.csproj.GenerateResource.cache
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.csproj.CoreCompileInputs.cache
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.exe
+D:\Мои документы\skoraya\skoraya\obj\Debug\skoraya.pdb
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\bin\Debug\skoraya.exe.config
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.exe
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.pdb
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\bin\Debug\skoraya.exe
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\bin\Debug\skoraya.pdb
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.AuthForm.resources
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.CallResultForm.resources
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.DirBrigadaForm.resources
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.DirMedPersForm.resources
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.DirPacientForm.resources
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.FilterForm.resources
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.GreetForm.resources
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.MainForm.resources
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.MapForm.resources
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.Properties.Resources.resources
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.RegForm.resources
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.csproj.GenerateResource.Cache
+C:\Users\Nick\Downloads\skoraya\skoraya\skoraya\obj\Debug\skoraya.test.resources
+D:\Рабочий стол\skoraya\skoraya\skoraya\bin\Debug\skoraya.exe.config
+D:\Рабочий стол\skoraya\skoraya\skoraya\bin\Debug\skoraya.exe
+D:\Рабочий стол\skoraya\skoraya\skoraya\bin\Debug\skoraya.pdb
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.csprojAssemblyReference.cache
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.AuthForm.resources
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.CallResultForm.resources
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.DirBrigadaForm.resources
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.DirMedPersForm.resources
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.DirPacientForm.resources
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.FilterForm.resources
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.GreetForm.resources
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.MainForm.resources
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.MapForm.resources
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.Properties.Resources.resources
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.RegForm.resources
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.csproj.GenerateResource.cache
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.exe
+D:\Рабочий стол\skoraya\skoraya\skoraya\obj\Debug\skoraya.pdb
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.exe.config
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.exe
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.pdb
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csprojAssemblyReference.cache
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.AuthForm.resources
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.CallResultForm.resources
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirBrigadaForm.resources
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirMedPersForm.resources
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirPacientForm.resources
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.FilterForm.resources
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.GreetForm.resources
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.MainForm.resources
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.MapForm.resources
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.Properties.Resources.resources
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.RegForm.resources
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csproj.GenerateResource.cache
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.exe
+D:\Рабочий стол\3_4 курс (Ириша)\4 курс ИрИшА\Практика (Скорая помощь)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.pdb
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.exe.config
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.exe
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.pdb
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csprojAssemblyReference.cache
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.AuthForm.resources
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.CallResultForm.resources
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirBrigadaForm.resources
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirMedPersForm.resources
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirPacientForm.resources
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.FilterForm.resources
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.GreetForm.resources
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.MainForm.resources
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.MapForm.resources
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.Properties.Resources.resources
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.RegForm.resources
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csproj.GenerateResource.cache
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.exe
+D:\Рабочий стол\Всё к диплому о диспетчерской службы скорой помощи\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.pdb
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.exe.config
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.exe
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.pdb
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.exe
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.pdb
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.AuthForm.resources
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.CallResultForm.resources
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirBrigadaForm.resources
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirMedPersForm.resources
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirPacientForm.resources
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.FilterForm.resources
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.GreetForm.resources
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.MainForm.resources
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.MapForm.resources
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.Properties.Resources.resources
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.RegForm.resources
+C:\Users\Nick\Downloads\skoraya (правильная)\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.exe.config
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.exe
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.pdb
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.AuthForm.resources
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.CallResultForm.resources
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirBrigadaForm.resources
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirMedPersForm.resources
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirPacientForm.resources
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.FilterForm.resources
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.GreetForm.resources
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.MainForm.resources
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.MapForm.resources
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.Properties.Resources.resources
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.RegForm.resources
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.exe
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.pdb
+C:\Users\Nick\Documents\_tmp\skoraya (правильная)\skoraya\skoraya\bin\Debug\MySql.Data.dll
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.exe.config
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.exe
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\bin\Debug\skoraya.pdb
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csprojAssemblyReference.cache
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.AuthForm.resources
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.CallResultForm.resources
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirBrigadaForm.resources
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirMedPersForm.resources
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.DirPacientForm.resources
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.FilterForm.resources
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.GreetForm.resources
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.MainForm.resources
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.MapForm.resources
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.Properties.Resources.resources
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.RegForm.resources
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csproj.GenerateResource.cache
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csproj.CoreCompileInputs.cache
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.csproj.CopyComplete
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.exe
+C:\Users\Tikho\OneDrive\Рабочий стол\skoraya (правильная) MySQL\skoraya (правильная)\skoraya\skoraya\obj\Debug\skoraya.pdb
