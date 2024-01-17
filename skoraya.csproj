@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7EC62373-8CBE-4DD4-816D-CA668B1843CD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>skoraya</RootNamespace>
+    <AssemblyName>skoraya</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\GitHub\MIK\MIK\MIK\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AuthForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AuthForm.Designer.cs">
+      <DependentUpon>AuthForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CallResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CallResultForm.Designer.cs">
+      <DependentUpon>CallResultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DirBrigadaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DirBrigadaForm.Designer.cs">
+      <DependentUpon>DirBrigadaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DirMedPersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DirMedPersForm.Designer.cs">
+      <DependentUpon>DirMedPersForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DirPacientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DirPacientForm.Designer.cs">
+      <DependentUpon>DirPacientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilterForm.Designer.cs">
+      <DependentUpon>FilterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GreetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GreetForm.Designer.cs">
+      <DependentUpon>GreetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapForm.Designer.cs">
+      <DependentUpon>MapForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegForm.Designer.cs">
+      <DependentUpon>RegForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="skorayaDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>skorayaDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AuthForm.resx">
+      <DependentUpon>AuthForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CallResultForm.resx">
+      <DependentUpon>CallResultForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DirBrigadaForm.resx">
+      <DependentUpon>DirBrigadaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DirMedPersForm.resx">
+      <DependentUpon>DirMedPersForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DirPacientForm.resx">
+      <DependentUpon>DirPacientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilterForm.resx">
+      <DependentUpon>FilterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GreetForm.resx">
+      <DependentUpon>GreetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapForm.resx">
+      <DependentUpon>MapForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegForm.resx">
+      <DependentUpon>RegForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="skorayaDBDataSet.xsc">
+      <DependentUpon>skorayaDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="skorayaDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>skorayaDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="skorayaDBDataSet.xss">
+      <DependentUpon>skorayaDBDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\w256h2561339195956Refresh256x256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1234.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScreenShot00087.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScreenShot00131.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScreenShot00132.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScreenShot00133.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScreenShot00134.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\878c70108c1af30bfea81cce3304b6e11.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
